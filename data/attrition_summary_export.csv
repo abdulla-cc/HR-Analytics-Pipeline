@@ -1,0 +1,19 @@
+income_band,JobRole,total,attrition_pct,avg_salary
+Low,Sales Representative,68,41.18,2346.955882352941
+High,Human Resources,5,40.0,9950.0
+Low,Human Resources,26,38.46,2440.1153846153848
+Mid,Sales Representative,15,33.33,3891.0
+Low,Laboratory Technician,135,29.63,2367.274074074074
+High,Sales Executive,98,22.45,10021.30612244898
+Low,Research Scientist,166,21.08,2427.9518072289156
+Mid,Laboratory Technician,124,17.74,4184.2338709677415
+Mid,Sales Executive,228,15.35,5593.100877192983
+High,Healthcare Representative,47,10.64,10455.191489361701
+Mid,Research Scientist,125,9.6,4266.464
+High,Manufacturing Director,48,8.33,10611.895833333334
+Mid,Manufacturing Director,97,6.19,5653.855670103093
+High,Manager,102,4.9,17181.676470588234
+Mid,Healthcare Representative,84,4.76,5891.357142857143
+High,Research Director,80,2.5,16033.55
+High,Research Scientist,1,0.0,9724.0
+Mid,Human Resources,21,0.0,5098.380952380952
